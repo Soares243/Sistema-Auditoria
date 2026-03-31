@@ -18,19 +18,19 @@ A solução contempla um sistema completo de gestão, incluindo controle de tare
 O desenvolvimento foi realizado utilizando boas práticas de engenharia de software, com foco em escalabilidade, organização do código e experiência do usuário.
 
 <p align="center">
-  <img src="src/assets/Dashboard_Dark.png" width="900"/>
+  <img src="assets/Dashboard_Dark.png" width="900"/>
 </p>
 
 <p align="center">
-  <img src="src/assets/Dashboard.png" width="900"/>
+  <img src="assets/Dashboard.png" width="900"/>
 </p>
 
 <p align="center">
-  <img src="src/assets/Atividades.png" width="900"/>
+  <img src="assets/Atividades.png" width="900"/>
 </p>
 
 <p align="center">
-  <img src="src/assets/Atividades_Dark.png" width="900"/>
+  <img src="assets/Atividades_Dark.png" width="900"/>
 </p>
 
 
