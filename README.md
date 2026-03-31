@@ -1,4 +1,10 @@
 
+<p align="center">
+  <img src="assets/logo-empresas.png" width="300"/>
+</p>
+
+<br><br>
+
 ### <img width="30" height="512" alt="image" src="https://github.com/user-attachments/assets/111d36f0-58db-49eb-bc8f-27c342165831" />Presentation
 
 This project was conceived and developed within the context of the **Audit Department**, with the objective of optimizing internal processes, improving activity traceability, and providing greater visibility into operational performance.
